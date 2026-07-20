@@ -1,0 +1,4 @@
+#Executsbles
+*.exe
+#others
+*.vscode
